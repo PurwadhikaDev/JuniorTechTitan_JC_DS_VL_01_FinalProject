@@ -57,7 +57,8 @@ Sebagai tim Data Scientist, kita ditugaskan untuk membantu menganalisa dan memba
 
 ##Conlusion and Recommendation
 | No |	Method	| Recall	| Precision	| f1_score	| Accuracy |
-| 0	| XGBoost |	0.404711	| 0.659686	| 0.501659	| 0.931491 |
+| -- | ------ | ----------- | ------ | ------ | ------ |
+| 0	| XGBoost |	0.404711 | 0.659686	| 0.501659	| 0.931491 |
 | 1	| GridSeacrhCV	| 0.346895	| 0.912676	| 0.502715	| 0.941525 |
 | 2	| GridSearchCV_SMOTE	| 0.346895	| 0.912676	| 0.502715	| 0.941525 |
 
