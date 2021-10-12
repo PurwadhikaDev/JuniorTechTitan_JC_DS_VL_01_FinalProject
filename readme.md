@@ -55,7 +55,7 @@ Sebagai tim Data Scientist, kita ditugaskan untuk membantu menganalisa dan memba
 - Walaupun perusahaan memiliki karyawan laki-laki yang lebih banyak dari perempuan, namun baik laki-laki atau perempuan memiliki kesempatan yang sama untuk di promosikan.
 - Karyawan dengan proses perekrutan berdasarkan referensi memiliki kesempatan di promosikan sedikit lebih tinggi dibandingkan dengan karyawan yang berasal dari outsorcing atau yang lainnya.
 
-##Conlusion and Recommendation
+## Conlusion and Recommendation
 | No |	Method	| Recall	| Precision	| f1_score	| Accuracy |
 | -- | ------ | ----------- | ------ | ------ | ------ |
 | 0	| XGBoost |	0.404711 | 0.659686	| 0.501659	| 0.931491 |
@@ -72,3 +72,6 @@ Rekomendasi:
 ## References
 1. https://towardsdatascience.com/building-a-logistic-regression-in-python-step-by-step-becd4d56c9c8
 2. https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/
+3. https://machinelearningmastery.com/smote-oversampling-for-imbalanced-classification/
+4. https://medium.com/@kennymiyasato/classification-report-precision-recall-f1-score-accuracy-16a245a437a5
+5. https://machinelearningmastery.com/smote-oversampling-for-imbalanced-classification/
